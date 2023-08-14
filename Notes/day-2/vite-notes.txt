@@ -1,0 +1,8 @@
+npm init vite
+cd "project name"
+npm install
+npm run dev/npm run build
+
+
+https://vitejs.dev/guide/
+https://semaphoreci.com/blog/vite
